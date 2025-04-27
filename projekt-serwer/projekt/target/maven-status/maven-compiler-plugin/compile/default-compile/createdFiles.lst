@@ -1,0 +1,10 @@
+com/projekt/projekt/AuthFilter.class
+com/projekt/projekt/JakartaRestConfiguration.class
+com/projekt/projekt/ReviewResource.class
+com/projekt/projekt/resources/JakartaEE8Resource.class
+com/projekt/projekt/Link.class
+com/projekt/projekt/BooksResource.class
+com/projekt/projekt/Review.class
+com/projekt/projekt/Book.class
+com/projekt/projekt/CustomExceptionMapper.class
+com/projekt/projekt/BookService.class
