@@ -1,0 +1,13 @@
+package com.mycompany.rest1;
+
+import javax.ws.rs.ApplicationPath;
+import javax.ws.rs.core.Application;
+
+/**
+ * Configures Jakarta RESTful Web Services for the application.
+ * @author Juneau
+ */
+@ApplicationPath("webresources")
+public class JakartaRestConfiguration extends Application {
+    
+}
